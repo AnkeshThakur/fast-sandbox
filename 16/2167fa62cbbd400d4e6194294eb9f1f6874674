@@ -1,0 +1,18 @@
+internal/runtime/firecracker/agent/s3client.go
+  h_bcae9e5506a814 200,339,466-467,473,480,489
+internal/runtime/firecracker/agent/s3multipart.go
+  h_bcae9e5506a814 21-26,42-44,67,89,109,133,140,165-177,187
+internal/runtime/firecracker/agent/s3multipart_test.go
+  h_bcae9e5506a814 14,40,45,66-69,74,175,196-244
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.1",
+  "base_commit_sha": "162167fa62cbbd400d4e6194294eb9f1f6874674",
+  "prompts": {},
+  "humans": {
+    "h_bcae9e5506a814": {
+      "author": "AnkeshThakur <athakur@g2.com>"
+    }
+  }
+}
