@@ -1,0 +1,27 @@
+docs/guides/pause-resume-snapshot-integration.md
+  s_5b636533c53bbb::t_e1f139e3ed077a 50-51
+internal/runtime/firecracker/agent/publish.go
+  s_5b636533c53bbb::t_fc975357ac8d62 156-163
+internal/runtime/firecracker/agent/s3client.go
+  s_5b636533c53bbb::t_3d5cd16767f07e 37,464,484
+internal/runtime/firecracker/agent/s3multipart.go
+  s_5b636533c53bbb::t_3d15bde2f1d1f6 1-207
+internal/runtime/firecracker/agent/s3multipart_test.go
+  s_5b636533c53bbb::t_8be11c986f93cb 1-194
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.1",
+  "base_commit_sha": "449d41e45fb9deed518679258719aa210e83ac5d",
+  "prompts": {},
+  "sessions": {
+    "s_5b636533c53bbb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a21157-b3ce-7c01-a49b-82ccf6aad533",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "AnkeshThakur <athakur@g2.com>"
+    }
+  }
+}
